@@ -1,0 +1,29 @@
+---
+title: 'Klik with DataTeka'
+author: DataTeka
+date: '2018-08-17'
+slug: workshopsbg
+categories:
+  - R
+tags: ["rstats", "R"]
+---
+
+Since returning to Belgrade early this year, Tatjana has been actively involved in promoting R for Data Science here in Serbia. Her love for teaching and the empowerment of people with knowledge for data analysis through the use of R is obvious.  Through her active engagements with the local data science community initiatives such as [R-Ladies Belgrade](https://www.meetup.com/R-Ladies-Belgrade/) Tatjana encourages a creative and open approach to teaching and learning and is a great advocate of diversity within the R community and STEM in general. 
+
+![](/post/Klik with DataTeka_files/IMG_0232.jpg){width=80%}
+
+Last April Tatjana delivered a presentation to the [ENTER conference 2018](http://www.enterconference.net/2018/) and as part of this event she was interviewed on the T.V. channel N1 and by the conference organisers on the promotional website.  The interview can be read at - [ENTER interview](http://www.enterconference.net/2018/1552-2/?lang=en).   
+
+![](/post/2018-08-17-workshopsbg_files/30176522_10156519621233825_1060690673_o.jpg){width=80%}
+
+In recent years, Tanja (Tatjana) has been busy promoting [R-Ladies](https://rladies.org/) initiatives in the UK and here in Serbia for which she has organised and led many workshops. During the inaugural International Open Data Day event in Belgrade, Tanja organised and delivered the R-Ladies workshop where members experienced the challenge and fun of working with open data in R for the first time. In just three hours all the participants were able to create visual information formats within Shiny in R studio. The outcomes can be viewed at <https://tatjana.shinyapps.io/TrafficAccidents/>. 
+
+![](/post/2018-08-17-workshopsbg_files/IMG_9586.jpg){width=80%}
+
+Tatjana has a passion for improving the gender diversity of R users and in particular increasing the participation of women and other under-represented groups within the R community. Consequently, she has been discussing the issues surrounding diversity within forums such as the Startit I.T. community panel discussions and made a TV appearance where she was interviewed about the importance of R and DS communities in general.
+
+![](/post/2018-08-17-workshopsbg_files/IMG_0235.jpg){width=80%}
+
+Tanja’s enthusiasm and commitment to diversity is reflected in the klik-R initiative which primary purpose is developing the use of R and widening the possibilities of participation within under-represented communities with particular focus on young people and in more specifically girls who are have yet to realise their potential within the DS community.
+
+![](/post/2018-08-17-workshopsbg_files/IMG_9373.jpg){width=80%}

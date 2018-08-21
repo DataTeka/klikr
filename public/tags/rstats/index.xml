@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rstats on klikR</title>
+    <link>/tags/rstats/</link>
+    <description>Recent content in Rstats on klikR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Klik with DataTeka</title>
+      <link>/2018/08/17/workshopsbg/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/17/workshopsbg/</guid>
+      <description>Since returning to Belgrade early this year, Tatjana has been actively involved in promoting R for Data Science here in Serbia. Her love for teaching and the empowerment of people with knowledge for data analysis through the use of R is obvious. Through her active engagements with the local data science community initiatives such as R-Ladies Belgrade Tatjana encourages a creative and open approach to teaching and learning and is a great advocate of diversity within the R community and STEM in general.</description>
+    </item>
+    
+  </channel>
+</rss>

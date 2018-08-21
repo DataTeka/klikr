@@ -1,0 +1,58 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "klikR"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    pre = "" 
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "GitHub"
+    pre = "fa-github" 
+    url = "https://github.com/DataTeka"
+     weight = 2
+[[menu.main]]
+    name = "Twitter"
+    pre = "fa-twitter"
+    url = "https://twitter.com/DataTeka"
+     weight = 3
+[[menu.main]]
+    name = "Posts"
+    pre = "fa-bullhorn"
+    url = "/post/"
+    weight = 4
+
+[params]
+    description = "Story telling is a great skill, craft or even an art. Irrespective of who you are and what you do, the ability to communicate ideas and narratives require imagination and creativity, but shaping these elements into an absorbing story requires skill. Of course, every story requires information, something, from which we can use our imaginations to formulate ideas, characters and the environment in which they exist. By substituting the word ‘data’ for the word ‘information’, it is possible to gain a more tangible insight into the world of the data scientist.With the current ubiquitous use of smart technologies and accompanying use of social media, satellite navigation and myriad of applications available, there is a corresponding rise in big and complex data (information). As a consequence, the stories that can be told using this information (data) is infinite and requires a level of understanding and skill to identify what the stories are and how to tell them to most listeners. This is the day-to-day vocation of a data scientist, we choose the data that we need to tell stories, but also to answer questions and develop ideas that shape imaginations. <br> <br> We will use R language to turn statistics within the data into a story that people can understand and use to solve a problems that are of concern to them or project ideas that are potentially life changing. Why R? Because R is the most sophisticated data analysis programming language, quickly becoming the tool of choice for many data scientists as it enables easy experimentation and exploration of data, reflecting and mirroring the way in which you consider a particular problem. R amalgamates the learning of important and desirable skills of the XXI century kids: code writing for statistical modelling and visualisation and data reporting in a reproducible manner. Through a series of demonstrations and hands on exercises you will learn some of the fundamental concepts of R and you will get to know how to use the tools needed in a typical data science project. You will be introduced to graphical and numerical techniques for exploring the information concealed within a dataset. After you develop an understanding of your data you will use R’s reproducible and interactive approach to knit this into a tight and concise narrative and of course, present your story by creating reproducible R-Markdown documents and Shiny Web Apps." 
+    chapter = "Belgrade, Serbia"
+    placedate = "15-Sept-2018"
+    customCSS = ["css/rladies.css", "css/font-awesome.min.css"]
+
+# .Site.Params.Chapter 
+
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "DataTekaHex1.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
+
