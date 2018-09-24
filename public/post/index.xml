@@ -6,10 +6,23 @@
     <description>Recent content in Posts on klikR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>klikR outlook</title>
+      <link>/2018/09/24/klikr-outlook/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/24/klikr-outlook/</guid>
+      <description>The klik-R workshop couldn’t have got to a better start! 😃
+“I learned something new.”
+ Our students were amazing; they were all fired up, bursting with enthusiasm and a desire to learn about R-stats. If this is level of interest at our first workshop what will the next one be like? We’re super exited!!
+What we learned from workshop:
+ Not everyone owns a laptop, so we need to source more equipment to make the sessions more inclusive.</description>
+    </item>
     
     <item>
       <title>Klik with DataTeka</title>

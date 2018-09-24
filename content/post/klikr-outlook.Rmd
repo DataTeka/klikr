@@ -1,0 +1,49 @@
+---
+title: 'klikR outlook'
+author: DataTeka
+date: '2018-09-24'
+slug: klikr-outlook
+categories:
+  - R
+tags:
+  - rstats
+  - R
+---
+The klik-R workshop couldn’t have got to a better start! 😃
+
+<span style="color:#1C86EE">*"I learned something new."*</span>
+
+![](/post/klikr-outlook_files/IMG_6677.jpg){width=80%}
+
+Our students were amazing; they were all fired up, bursting with enthusiasm and a desire to learn about R-stats. If this is level of interest at our first workshop what will the next one be like? We’re super exited!!
+
+What we learned from workshop:
+
+* Not everyone owns a laptop, so we need to source more equipment to make the sessions more inclusive.
+* There is a massive hunger for learning about data science using R from a wide range of age groups.
+* Pizza is always popular
+* There needs to be more focus on filling the gaps in their knowledge of basic statistical concepts.
+* The student’s commitment to the subject was evident in their desire to stay longer; they didn’t want to go home and wanted to know when we could meet again.
+* Having supportive sponsors is an invaluable part of delivering our workshops.
+
+The workshop made it clear to us that the skills needed for data analysis are not being fulfilled by traditional ‘book learning’ and a more creative hands-on approach is the way forward. 
+
+![](/post/klikr-outlook_files/IMG_6682.jpg){width=80%}
+
+Our students gave us great feedback 
+
+<span style="color:#1C86EE">*"I really liked what Tanja complicated things could explain so they are easy to understand and that they look simple. I'm very happy because I learned a lot.
+I mostly liked the part with the statistics."*</span>
+
+and were excited to attend meeting with [Hadley Wickham](http://hadley.nz/) at the event and presentation he gave to [R-Ladies Belgrade](https://www.meetup.com/R-Ladies-Belgrade/events/254474297/). 
+
+![](/post/klikr-outlook_files/IMG_2842.jpg){width=80%}
+
+<span style="color:#1C86EE"> *"I would like to continue with this workshop because R seems useful to me from many aspects. I would like to have a workshops from time to time where we could share what we have done so far and start a new part of the work on the R."*</span>
+
+Material from the workshop is available from:
+
+- <https://tatjana.shinyapps.io/klikr_WS/>
+- <https://tanjakec.github.io/DSSR/DSSR.html>
+
+<span style="color:#1C86EE">*"I was thrilled with Tanja's enthusiasm and the desire to work with young people."*</span>
